@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-[🔗 Clique aqui para acessar](https://laerciodiniz.github.com.io/nlw-esports-explorer)
+[🔗 Clique aqui para acessar](https://laerciodiniz.github.io/nlw-esports-explorer)
 
 Projeto construído na Next Level Week da Rockeseat
 
